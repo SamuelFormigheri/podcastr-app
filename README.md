@@ -1,34 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+   <img
+        alt="Podcastr"
+        title="Podcastr"
+        src=".github/logo.svg"
+        width="300"
+    />
+</h1>
+ 
 
-## Getting Started
+<p align="center">
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-participants">Participants</a>
+</p>
 
-First, run the development server:
+<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 💻 Project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔊 Podcastr was an app made with Next JS. The application is a dashboard to play podcasts. It was developed during @Rocketseat NLW#05.. 💜
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p align="center">
+    <img
+        alt="Podcastr"
+        title="Podcastr"
+        src=".github/podcastr.gif"
+    />
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🚀 Technologies
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+This project was developed with the following technologies:
 
-## Learn More
+- [React](https://reactjs.org/)
+- [Next JS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
-To learn more about Next.js, take a look at the following resources:
+## 💻 Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ ### Mobile App
+  
+    $ yarn to install the dependencies.
+    
+    $ yarn server to initiate the json-server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    $ yarn dev
+    
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👥 Participants
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Samuel Formigheri](https://github.com/SamuelFormigheri)
